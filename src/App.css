@@ -1,0 +1,135 @@
+
+#container{
+    position: absolute;
+    width:100%;
+    height:100%;
+    margin:0;
+    padding:0;
+    background: url("beijing.jpg");
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: center center;
+    opacity:0.8;
+}
+input::placeholder{
+    position: relative;
+    color:#ffffff;
+}
+.headerStyle{
+    width:100%;
+    height:60px;
+    background-color: white;
+}
+.headStyle{
+    width:100%;
+    height:60px;
+    background-color: #4A4A4A;
+}
+.ImgStyle{
+    width:50px;
+    height:50px;
+    marginLeft:100px;
+}
+.pStyle{
+    margin-left:150px;
+    margin-top:-30px;
+    letter-spacing:3px;
+    font-variant:small-caps;
+}
+.p2Style{
+    position:absolute;
+    top:100px;
+    left:100px;
+    color:white;
+    letter-spacing:3px;
+}
+.picImg{
+    height:60px;
+    width:60px;
+}
+.tableStyle{
+    position:absolute;
+    margin-top:130px;
+    left:100px;
+}
+.trStyle{
+    padding:20px;
+}
+.inputStyle{
+    height:25px;
+    width:200px;
+    border-radius:8px;
+    color:white;
+    background-color:transparent;
+}
+
+.taStyle{
+    border-collapse:separate;
+    border-spacing:20px 20px;
+/*cellspacing:"20px"*/
+}
+.checkStyle{
+    position:absolute;
+    margin-top:325px;
+    left:100px;
+    color:white;
+    font-size:14px;
+}
+.taStyle{
+    color:#B8E986;
+    font-size:12px;
+}
+.buttonStyle{
+    position:absolute;
+    margin-top:350px;
+    left:100px;
+    font-size:16px;
+}
+.btnStyle{
+    width:150px;
+    height:30px;
+    color:white;
+    background-color:#A500CC;
+    border-radius:8px;
+    border:0;
+}
+.signinStyle{
+    position:absolute;
+    margin-top:400px;
+    left:100px;
+    color:white;
+    font-size:12px;
+}
+.engStyle{
+    position:absolute;
+    margin-top:300px;
+    margin-left:770px;
+    color:white;
+    font-size:16px;
+    letter-spacing:3px;
+}
+.hrStyle{
+    width:500px;
+    left:100px;
+    text-align: center;
+    border:1px solid #ffffff;
+}
+.boxStyle{
+    margin-top:100px;
+    padding:20px;
+    margin-left:70px;
+}
+.forStyle{
+    position: absolute;
+    left:90px;
+    margin-top:-5px;
+    color:#B8E986;
+    font-size:14px;
+}
+.gameStyle{
+    position: absolute;
+    left:90px;
+    font-size:12px;
+    color:#ffffff;
+}
